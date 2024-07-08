@@ -1,2 +1,2 @@
 # Insight-Api
-An APIfor sorting out profane words based on context.
+An API for sorting out profane words based on context.
